@@ -1,5 +1,0 @@
-/Users/asrafarquharson/Downloads/lastname-firstname-template-v1-3-3/obj/Debug/net9.0/lastname-firstname-template-v1-3-3.csproj.AssemblyReference.cache
-/Users/asrafarquharson/Downloads/lastname-firstname-template-v1-3-3/obj/Debug/net9.0/lastname-firstname-template-v1-3-3.GeneratedMSBuildEditorConfig.editorconfig
-/Users/asrafarquharson/Downloads/lastname-firstname-template-v1-3-3/obj/Debug/net9.0/lastname-firstname-template-v1-3-3.AssemblyInfoInputs.cache
-/Users/asrafarquharson/Downloads/lastname-firstname-template-v1-3-3/obj/Debug/net9.0/lastname-firstname-template-v1-3-3.AssemblyInfo.cs
-/Users/asrafarquharson/Downloads/lastname-firstname-template-v1-3-3/obj/Debug/net9.0/lastname-firstname-template-v1-3-3.csproj.CoreCompileInputs.cache
