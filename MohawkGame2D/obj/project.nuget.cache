@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "v2QRIsYfZnk=",
+  "success": true,
+  "projectFilePath": "/Users/asrafarquharson/Downloads/MohawkGame2D/MohawkGame2D.csproj",
+  "expectedPackageFiles": [
+    "/Users/asrafarquharson/.nuget/packages/raylib-cs/6.1.1/raylib-cs.6.1.1.nupkg.sha512",
+    "/Users/asrafarquharson/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
